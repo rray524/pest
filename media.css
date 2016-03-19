@@ -1,0 +1,429 @@
+                    @media (min-width:992px) and (max-width: 1199px) {
+                        .aus_txt_two > p {
+                            padding-left: 45%;
+                        }
+                        .rounded {
+                            background-size: 52% 39%;
+                        }
+                        .rounded h6 {
+                            font-size: 17px;
+                            top: 57px;
+                        }
+                        .rounded > p {
+                            font-size: 18px;
+                            left: 433px;
+                            top: 62px;
+                        }
+                        .rounded h5 {
+                            font-size: 18px;
+                            left: 567px;
+                            top: 54px;
+                        }
+                        .round2 > p {
+                            font-size: 15px;
+                            right: 11px;
+                            top: 53px;
+                        }
+                        .round2 {
+                            background-size: 100% 100%;
+                        }
+                        .form6 > input[type="submit"] {
+                            padding: 10px 122px;
+                        }
+                        .img1 > img {
+                            width: 100%;
+                        }
+                        .img2 > img {
+                            width: 100%;
+                            margin-top: 47px;
+                        }
+                        .img3 > img {
+                            width: 100%;
+                            margin-top: 47px;
+                        }
+                        .img4 > img {
+                            width: 100%;
+                            padding-top: 51px;
+                        }
+                        .header_p > p {
+                            padding-top: 6px;
+                        }
+                        .body_main_header h2 {
+                            padding-top: 16px;
+                            font-size: 29px;
+                        }
+                        .header_sub > h6 {
+                            padding-top: 11px;
+                            padding-bottom: 30px;
+                        }
+                        .quotes_italic > p {
+                            padding-top: 55px;
+                        }
+                        .body_main_logo > img {
+                            margin-right: -1%;
+                        }
+                        .list3 li::before {
+                            right: 182px;
+                        }
+                        .copyright > p {
+                            padding-left: 75%;
+                        }
+                    }
+                    
+                    @media (min-width:768px) and (max-width: 991px) {
+                        .aus_txt > p {
+                            font-size: 12px;
+                        }
+                        .aus_txt_two > p {
+                            font-size: 13px;
+                            padding-left: 42%;
+                            padding-top: 10px;
+                        }
+                        .header_logo > img {
+                            width: 80%;
+                        }
+                        .header_logo {
+                            right: -34px;
+                            top: 32px;
+                        }
+                        .rounded {
+                            background-size: 47% 46%;
+                        }
+                        .rounded h6 {
+                            font-size: 13px;
+                            font-weight: bold;
+                            left: 207px;
+                            top: 58px;
+                        }
+                        .rounded h5 {
+                            font-size: 13px;
+                            left: 421px;
+                            top: 54px;
+                        }
+                        .round2 > p {
+                            font-size: 11px;
+                            right: 10px;
+                            top: 54px;
+                        }
+                        .round2 h4 {
+                            font-size: 12px;
+                            padding: 13px;
+                        }
+                        .form_area > p {
+                            font-size: 13px;
+                        }
+                        .main_form {
+                            padding: 0 16px;
+                        }
+                        .form6 > input[type="submit"] {
+                            padding: 10px 96px;
+                        }
+                        .body_main_header h2 {
+                            font-size: 22px;
+                            padding-top: 5px;
+                        }
+                        .header_p > p {
+                            font-size: 13px;
+                            line-height: 28px;
+                            padding-top: 6px;
+                        }
+                        .img1 > img {
+                            width: 100%;
+                        }
+                        .img2 > img {
+                            width: 100%;
+                        }
+                        .img3 > img {
+                            width: 100%;
+                        }
+                        .img4 > img {
+                            width: 100%;
+                        }
+                        .header_sub > h6 {
+                            font-size: 14px;
+                            padding-bottom: 11px;
+                            padding-top: 9px;
+                        }
+                        ul.list li {
+                            padding-bottom: 14px;
+                            padding-left: 27px;
+                            position: relative;
+                        }
+                        ul.list {
+                            padding-left: 0;
+                        }
+                        .quotes_italic > p {
+                            padding-left: 14px;
+                            padding-top: 0;
+                            font-size: 16px;
+                        }
+                        .round2 {
+                            background-size: 100% 100%;
+                        }
+                        .body_main_logo > img {
+                            width: 27%;
+                        }
+                        .img2 > img {
+                            margin-top: 41px;
+                        }
+                        .img3 > img {
+                            margin-top: 39px;
+                        }
+                        .img4 > img {
+                            padding-top: 39px;
+                        }
+                        .rounded > p {
+                            font-size: 11px;
+                            left: 341px;
+                            top: 69px;
+                        }
+                        .copyright > h6 {
+                            font-size: 12px;
+                            padding: 30px 40px 30px 0;
+                        }
+                        .copyright > p {
+                            font-size: 12px;
+                            padding-left: 72%;
+                            padding-top: 37px;
+                        }
+                    }
+                    
+                    @media (min-width:320px) and (max-width: 767px) {
+                        .aus_txt > p {
+                            float: none;
+                        }
+                        .aus_txt_two > p {
+                            font-size: 15px;
+                            padding-left: 0;
+                        }
+                        .aus_logo > img {
+                            margin-right: 6px;
+                        }
+                        .body_main_header h2 {
+                            font-size: 18px;
+                            padding-top: 2px;
+                        }
+                        .body_main_header h2 {
+                            font-size: 18px;
+                            padding-top: 2px;
+                        }
+                        .header_p > p {
+                            font-size: 12px;
+                            line-height: 24px;
+                            padding-top: 2px;
+                        }
+                        .header_sub > h6 {
+                            font-size: 13px;
+                            padding-bottom: 15px;
+                            padding-top: 9px;
+                        }
+                        .header_p > p {
+                            font-size: 12px;
+                            line-height: 24px;
+                            padding-top: 2px;
+                        }
+                        .header_sub > h6 {
+                            font-size: 13px;
+                            padding-bottom: 15px;
+                            padding-top: 9px;
+                        }
+                        .dog_bg {
+                            background-image: none;
+                        }
+                        .logo_img {
+                            text-align: center;
+                        }
+                        .logo_img > img {
+                            padding-bottom: 7px;
+                            padding-top: 8px;
+                            float: none;
+                        }
+                        .rounded {
+                            background-size: 100% 109%;
+                            padding-top: 49px;
+                        }
+                        .header_logo {
+                            margin-top: 9px;
+                            position: inherit;
+                            text-align: center;
+                        }
+                        .rounded h6 {
+                            font-size: 11px;
+                            left: 21px;
+                            top: 158px;
+                            font-weight: bold;
+                        }
+                        .rounded > p {
+                            font-size: 12px;
+                            left: 130px;
+                            top: 164px;
+                        }
+                        .rounded h5 {
+                            font-size: 9px;
+                            left: 214px;
+                            top: 153px;
+                        }
+                        li {
+                            font-size: 13px;
+                        }
+                        ul.list li {
+                            padding-left: 17px;
+                        }
+                        ul.list li::before {
+                            height: 13px;
+                            width: 15px;
+                        }
+                        ul.list {
+                            padding-left: 0;
+                        }
+                        .quotes_italic > p {
+                            font-size: 16px;
+                            padding-left: 0;
+                            padding-top: 9px;
+                        }
+                        .col-sm-8 {
+                            padding-left: 15px;
+                        }
+                        .quotes_italic > h5 {
+                            font-size: 14px;
+                            padding-left: 0;
+                        }
+                        .quotes_italic h3 {
+                            font-size: 22px;
+                            padding-left: 0;
+                        }
+                        .body_main_logo > img {
+                            margin-right: 0;
+                            margin-top: 53px;
+                            width: 100%;
+                        }
+                        .round2 > p {
+                            font-family: open sans;
+                            font-size: 16px;
+                            font-weight: bold;
+                            position: absolute;
+                            right: 32px;
+                            top: 12px;
+                        }
+                        .col-sm-4 {
+                            padding-right: 15px;
+                        }
+                        .round2 {
+                            background-size: 100% 100%;
+                        }
+                        .round2 > p {
+                            font-size: 13px;
+                        }
+                        .round2 h4 {
+                            font-size: 13px;
+                        }
+                        .form_area > p {
+                            font-size: 13px;
+                        }
+                        .main_form {
+                            padding: 0 15px;
+                        }
+                        .form6 > input[type="submit"] {
+                            padding: 10px 115px;
+                        }
+                        .img1 > img {
+                            width: 100%;
+                        }
+                        .img2 > img {
+                            width: 100%;
+                        }
+                        .img3 > img {
+                            width: 100%;
+                        }
+                        .img4 > img {
+                            width: 100%;
+                        }
+                        .copyright > h6 {
+                            float: none;
+                            padding: 6px 0 0;
+                            text-align: center;
+                        }
+                        .copyright > p {
+                            font-size: 14px;
+                            padding-left: 0;
+                            padding-top: 0;
+                            text-align: center;
+                        }
+                        .form6 {
+                            text-align: center;
+                        }
+                    }
+                    /*******************extra code for middle area***********/
+                    
+                    @media (min-width:340px) and (max-width: 385px) {
+                        .rounded h6 {
+                            font-size: 12px;
+                            left: 17px;
+                            top: 156px;
+                            font-weight: bold;
+                        }
+                        .rounded > p {
+                            font-size: 11px;
+                            left: 152px;
+                            top: 166px;
+                        }
+                        .rounded h5 {
+                            font-size: 10px;
+                            left: 233px;
+                        }
+                    }
+                    
+                    @media (min-width:386px) and (max-width: 466px) {
+                        .rounded h5 {
+                            font-size: 10px;
+                            left: 276px;
+                            top: 153px;
+                        }
+                        .rounded > p {
+                            font-size: 13px;
+                            left: 179px;
+                            top: 164px;
+                        }
+                        .rounded h6 {
+                            font-size: 13px;
+                            font-weight: bold;
+                            left: 21px;
+                            top: 158px;
+                        }
+                    }
+                    
+                    @media (min-width:467px) and (max-width: 595px) {
+                        .rounded h6 {
+                            font-size: 16px;
+                            font-weight: bold;
+                            top: 155px;
+                        }
+                        .rounded h5 {
+                            font-size: 12px;
+                            left: 338px;
+                            top: 153px;
+                        }
+                        .rounded > p {
+                            font-size: 15px;
+                            left: 230px;
+                            top: 162px;
+                        }
+                    }
+                    
+                    @media (min-width:596px) and (max-width: 767px) {
+                        .rounded h6 {
+                            font-size: 18px;
+                            font-weight: bold;
+                            left: 31px;
+                            top: 154px;
+                        }
+                        .rounded h5 {
+                            font-size: 15px;
+                            left: 431px;
+                        }
+                        .rounded > p {
+                            font-size: 16px;
+                            left: 309px;
+                            top: 162px;
+                        }
+                    }

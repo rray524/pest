@@ -1,0 +1,385 @@
+    body {
+        overflow-y: scroll;
+        overflow-x: hidden;
+    }
+    
+    @font-face {
+        font-family: Open Sans;
+        src: url(OpenSans-Regular.ttf);
+    }
+    /**********top section*************/
+    
+    .top {
+        background-color: #353434;
+    }
+    
+    .aus_logo {
+        float: left;
+    }
+    
+    .aus_txt > p {
+        color: #fff;
+        float: left;
+        font-family: open sans;
+        font-size: 13px;
+        padding-top: 10px;
+        padding-left: 12px;
+    }
+    
+    .aus_txt_two > p {
+        color: #fff;
+        font-family: open sans;
+        font-size: 16px;
+        padding-left: 55%;
+        padding-top: 6px;
+    }
+    /************header section***********/
+    
+    .header {
+        background-image: url(header_photo.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .rounded {
+        background-image: url("rounded.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        padding-top: 154px;
+    }
+    
+    .logo_img > img {
+        float: left;
+        padding-top: 8px;
+    }
+    
+    .rounded h6 {
+        color: #fefefe;
+        font-family: open sans;
+        font-size: 23px;
+        left: 258px;
+        position: absolute;
+        top: 53px;
+    }
+    
+    .rounded > p {
+        color: #353434;
+        font-family: open sans;
+        font-size: 20px;
+    }
+    
+    .rounded h5 {
+        color: #93c01c;
+        font-family: open sans;
+        font-size: 30px;
+        font-weight: bold;
+        left: 665px;
+        position: absolute;
+        top: 48px;
+    }
+    
+    .rounded > p {
+        color: #353434;
+        font-family: open sans;
+        font-size: 20px;
+        left: 514px;
+        position: absolute;
+        top: 59px;
+    }
+    
+    .header_logo {
+        position: absolute;
+        right: 0;
+        top: 16px;
+    }
+    /**************dog-body area************/
+    
+    .body_area {
+        background-image: url(bg.png);
+        background-repeat: no-repeat;
+    }
+    
+    .dog_bg {
+        background-image: url(dog.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    
+    .video_img > img {
+        padding-top: 40px;
+        width: 100%;
+    }
+    
+    .col-sm-8 {
+        padding-left: 0;
+    }
+    
+    .body_main_header h2 {
+        color: #319934;
+        font-family: open sans;
+        font-size: 30px;
+        padding-top: 22px;
+    }
+    
+    .header_p > p {
+        color: #282828;
+        font-family: open sans;
+        font-size: 15px;
+        line-height: 37px;
+        padding-top: 13px;
+    }
+    
+    .header_sub > h6 {
+        color: #4da32c;
+        font-family: open sans;
+        font-size: 15px;
+        font-weight: bold;
+        padding-bottom: 20px;
+        padding-top: 27px;
+    }
+    
+    ul.list {
+        float: left;
+        list-style: outside none none;
+        width: 33%;
+    }
+    
+    ul.list li {
+        padding-bottom: 14px;
+        padding-left: 40px;
+        position: relative;
+    }
+    
+    ul.list li::before {
+        background-image: url("tick.png");
+        background-size: 100% 100%;
+        content: "";
+        height: 16px;
+        left: 0;
+        position: absolute;
+        top: 4px;
+        width: 18px;
+    }
+    
+    li {
+        color: #282828;
+        font-family: open sans;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    
+    .pest_list {
+        margin-bottom: 154px;
+    }
+    
+    .quotes_italic > p {
+        color: #282828;
+        font-family: open sans;
+        font-size: 19px;
+        font-style: italic;
+        padding-top: 41px;
+        padding-left: 31px;
+    }
+    
+    .quotes_italic h3 {
+        color: #282828;
+        font-family: open sans;
+        font-size: 25px;
+        font-weight: bold;
+        padding-left: 31px;
+    }
+    
+    .quotes_italic > h5 {
+        color: #282828;
+        font-family: open sans;
+        font-size: 16px;
+        font-weight: bold;
+        padding-left: 31px;
+    }
+    
+    .body_main_logo > img {
+        margin-right: 5%;
+        margin-top: 10px;
+    }
+    
+    .body_main_logo {
+        padding-bottom: 24px;
+    }
+    
+    .body_call {
+        background-image: url("call.png");
+        background-size: 100% 100%;
+        padding: 46px;
+    }
+    
+    .round2 {
+        background-image: url("round2.png");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 40px;
+    }
+    
+    .round2 h4 {
+        color: #fff;
+        font-family: open sans;
+        font-size: 16px;
+        font-weight: bold;
+        padding: 15px;
+    }
+    
+    .round2 > p {
+        font-family: open sans;
+        font-size: 16px;
+        font-weight: bold;
+        position: absolute;
+        right: 32px;
+        top: 50px;
+    }
+    
+    .col-sm-4 {
+        padding-right: 0;
+    }
+    
+    .form_area {
+        background-color: #F3F3F3;
+    }
+    
+    .form_area > p {
+        color: #1a1a1a;
+        font-family: open sans;
+        font-size: 14px;
+        font-weight: bold;
+        line-height: 26px;
+        padding-top: 16px;
+    }
+    
+    .form_area>p>span {
+        color: #329934;
+    }
+    
+    .main_form > .form5 > textarea {
+        background: #fff none repeat scroll 0 0;
+        height: 100px;
+        margin-bottom: 8px;
+        padding: 8px;
+        width: 100%;
+        border: none;
+        border: 1px solid #ccc;
+    }
+    
+    .form6 > input[type="submit"] {
+        background-image: url("send.png");
+        background-size: 100% 100%;
+        border: 0 none;
+        margin-bottom: 33px;
+        padding: 10px 156px;
+    }
+    
+    input#name.form-control {
+        background-color: #fff;
+        background-image: none;
+        border: 1px solid #ccc;
+        border-radius: 0;
+        color: #BDB8B5;
+        display: block;
+        font-size: 14px;
+        height: 30px;
+        line-height: 1.42857;
+        padding: 6px 12px;
+        margin-bottom: 12px;
+        -webkit-transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+        transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+        width: 100%;
+    }
+    
+    input#tele.form-control {
+        background-color: #fff;
+        background-image: none;
+        border: 1px solid #ccc;
+        border-radius: 0;
+        color: #BDB8B5;
+        display: block;
+        font-size: 14px;
+        height: 30px;
+        margin-bottom: 12px;
+        line-height: 1.42857;
+        padding: 6px 12px;
+        -webkit-transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+        transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+        width: 100%;
+    }
+    
+    input#mail.form-control {
+        background-color: #fff;
+        background-image: none;
+        border: 1px solid #ccc;
+        border-radius: 0;
+        color: #BDB8B5;
+        display: block;
+        font-size: 14px;
+        margin-bottom: 12px;
+        height: 30px;
+        line-height: 1.42857;
+        padding: 6px 12px;
+        -webkit-transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+        transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+        width: 100%;
+    }
+    
+    select#drop.form-control {
+        background-color: #fff;
+        background-image: none;
+        border: 1px solid #ccc;
+        border-radius: 0;
+        color: #BDB8B5;
+        display: block;
+        font-size: 14px;
+        margin-bottom: 12px;
+        height: 30px;
+        line-height: 1.42857;
+        padding: 6px 12px;
+        -webkit-transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+        transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+        width: 100%;
+    }
+    
+    .main_form {
+        padding: 0 27px;
+    }
+    
+    .img2 > img {
+        margin-top: 37px;
+    }
+    
+    .img3 > img {
+        margin-top: 35px;
+    }
+    
+    .img4 > img {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+    /**************footer area*************/
+    
+    .footer {
+        background-color: #1A1A1A;
+    }
+    
+    .copyright > h6 {
+        color: #fff;
+        float: left;
+        font-family: open sans;
+        font-size: 14px;
+        padding: 40px 40px 40px 0;
+    }
+    
+    .copyright > p {
+        color: #fff;
+        font-family: open sans;
+        font-size: 14px;
+        padding-left: 79%;
+        padding-top: 45px;
+    }
